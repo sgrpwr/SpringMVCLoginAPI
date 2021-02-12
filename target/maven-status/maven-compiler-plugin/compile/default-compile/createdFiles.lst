@@ -1,0 +1,4 @@
+com\sagar\controller\LoginController.class
+com\sagar\controller\UserLogin.class
+com\sagar\config\WebXmlAppConfig.class
+com\sagar\config\SpringApplicationConfig.class
